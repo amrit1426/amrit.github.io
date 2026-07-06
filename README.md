@@ -2,10 +2,11 @@
 
 Personal portfolio site built from my resume, deployed via GitHub Pages.
 
-**Live site:** https://amrit.github.io/portfolio/ (update after deployment)
+**Live site:** https://amrit1426.github.io/
 
 ## Structure
 - `index.html` — single-file site (HTML + CSS + JS, no build step needed)
+- `Amrit_Pratim_Baruah_Resume_Polished.pdf` — resume, linked from the hero "Resume (PDF)" button (must live in the same repo, at the root, with this exact filename — rename the file or update the link in `index.html` if it differs)
 
 ## Update this site
 1. Edit project cards, links, and copy directly in `index.html`.
