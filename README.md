@@ -2,7 +2,7 @@
 
 Personal portfolio site built from my resume, deployed via GitHub Pages.
 
-**Live site:** https://amrit1426.github.io/
+**Live site:** https://amrit.github.io/
 
 ## Structure
 - `index.html` — single-file site (HTML + CSS + JS, no build step needed)
